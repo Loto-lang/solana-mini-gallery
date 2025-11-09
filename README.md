@@ -1,4 +1,4 @@
-# 🪶 Solana Mini Gallery
+# 🪶 Solana Mini Gallery (ENCODE CLUB - SOLANA BOOTCAMP Q3 2025)
 
 A lightweight React + TypeScript + Vite front-end for displaying NFTs from a Solana collection using the **Helius DAS API**.  
 This project connects to Solana devnet, supports wallet connection (Phantom, Solflare, etc.), and displays verified NFTs in a clean gallery interface.
