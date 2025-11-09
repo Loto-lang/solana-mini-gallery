@@ -19,7 +19,7 @@ This project connects to Solana devnet, supports wallet connection (Phantom, Sol
 
 ## 🌐 Front-End Integration
 
-The React front-end for this project is available here - developped by loto-lang for the ENCODE CLUB - SOLANA BOOTCAMP Q3 2025-:  
+The React front-end for this project is available here - developped by loto-lang for the ENCODE CLUB SOLANA BOOTCAMP Q3 2025:  
 👉 [solana-mini-gallery](https://github.com/Loto-lang/solana-mini-gallery)
 
 It connects to the NFTs minted by this repository and displays them using the Helius DAS API.  
