@@ -19,8 +19,8 @@ This project connects to Solana devnet, supports wallet connection (Phantom, Sol
 
 ## 📸 Screenshots
 
-![Preview 1](https://github.com/Loto-lang/solana-mini-gallery/main/assets/screenshot1.png?raw=true)
-![Preview 2](https://github.com/Loto-lang/solana-mini-gallery/main/assets/screenshot2.png?raw=true)
+![Preview 1](https://github.com/Loto-lang/solana-mini-gallery/main/blob/assets/screenshot1.png?raw=true)
+![Preview 2](https://github.com/Loto-lang/solana-mini-gallery/main/blob/assets/screenshot2.png?raw=true)
 
 ---
 
