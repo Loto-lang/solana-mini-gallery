@@ -3,6 +3,14 @@
 A lightweight React + TypeScript + Vite front-end for displaying NFTs from a Solana collection using the **Helius DAS API**.  
 This project connects to Solana devnet, supports wallet connection (Phantom, Solflare, etc.), and displays verified NFTs in a clean gallery interface.
 
+## 🌐 Front-End Integration
+
+The React front-end for this project is available here:  
+👉 [solana-mini-gallery](https://github.com/Loto-lang/solana-mini-gallery)
+
+It connects to the NFTs minted by this repository and displays them using the Helius DAS API.  
+Built with **React + TypeScript + Vite**, and includes Solana Wallet Adapter integration for Devnet.
+
 ---
 
 ## 🚀 Features
@@ -35,3 +43,4 @@ This project connects to Solana devnet, supports wallet connection (Phantom, Sol
 ```bash
 git clone https://github.com/<your-username>/solana-mini-gallery.git
 cd solana-mini-gallery
+
