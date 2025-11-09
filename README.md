@@ -17,6 +17,13 @@ This project connects to Solana devnet, supports wallet connection (Phantom, Sol
 
 ---
 
+## 📸 Screenshots
+
+![Preview 1](https://github.com/Loto-lang/solana-mini-gallery/main/assets/screenshot1.png?raw=true)
+![Preview 2](https://github.com/Loto-lang/solana-mini-gallery/main/assets/screenshot2.png?raw=true)
+
+---
+
 ## 🌐 Front-End Integration
 
 The React front-end for this project is available here - developped by loto-lang for the ENCODE CLUB SOLANA BOOTCAMP Q3 2025:  
